@@ -36,7 +36,7 @@ Access the UsePopcorn website [here](https://usepopcorn-ted.netlify.app/).
 
 ## Screenshots
 
-![Forkify Screenshot](./usePopcorn-screenshot.png)
+![UsePopcorn Screenshot](public/screenshot.png)
 
 ## Issues and Feedback
 
