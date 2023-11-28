@@ -2,6 +2,10 @@
 
 Welcome to UsePopcorn, a movie rating website developed by Tedo Janelidze as part of a React course by Jonas Schmedtmann. This website utilizes the OMDB API to search for movies, display their ratings, allow users to rate movies, and add them to a watchlist.
 
+## Screenshots
+
+![UsePopcorn Screenshot](public/usePopcorn-screenshot.png)
+
 ## Features
 
 - **Search Movies**: Utilize the OMDB API to search for movies by title.
@@ -33,13 +37,3 @@ Access the UsePopcorn website [here](https://usepopcorn-ted.netlify.app/).
 ## Acknowledgements
 
 - Jonas Schmedtmann - For the React course and guidance.
-
-## Screenshots
-
-![UsePopcorn Screenshot](public/usePopcorn-screenshot.png)
-
-## Issues and Feedback
-
-If you encounter any issues or have suggestions for improvement, please [open an issue](https://github.com/your-username/usepopcorn/issues).
-
-Happy movie rating!
